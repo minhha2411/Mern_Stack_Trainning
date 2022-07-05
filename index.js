@@ -76,3 +76,4 @@ console.log(countFibonaci(8));
 console.log(countFibonaci(9));
 console.log(countFibonaci(10));
 console.log(countFibonaci(11));
+console.log(countFibonaci(1000000));
